@@ -1,0 +1,25 @@
+{
+  "variant": 4,
+  "runs": 30,
+  "budget_per_run": 240,
+  "ga_acc_mean": 0.9833333333333333,
+  "ga_acc_std": 0.011385500851066214,
+  "compact_mean": 0.9873333333333333,
+  "compact_std": 0.012806248474865695,
+  "random_mean": 0.9866666666666666,
+  "random_std": 0.011287488977066924,
+  "best_test": 0.9733333333333334,
+  "best_val": 1.0,
+  "best_params": 675,
+  "best_arch": [
+    2,
+    32,
+    16,
+    3
+  ],
+  "p_value": 0.9231314120336973,
+  "baseline_linear_test": 0.28,
+  "baseline_manual_mlp_test": 0.8733333333333333,
+  "baseline_manual_mlp_params": 675,
+  "total_trainings": 21600
+}
